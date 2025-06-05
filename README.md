@@ -1,4 +1,4 @@
-# SummerResearch2025
+# Summer Research 2025
 
 ## Project Overview
 Last summer I setup a connection between a VR headset and a physical robot. When this got implemented with the delay compensation algorithm we found that the robot needed to be more precise closer to target and faster the further away from the target the robot is. Since the user is naturally going to be looking towards the destination of the robotic hand, this project will use the distance between the position of the robotic gripper and the point at which the user is looking at to determine how fast the robot should move.

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 1900071122743135212}
   - component: {fileID: 4635036729819742198}
   - component: {fileID: 4627651790947844425}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: DepthCamera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
